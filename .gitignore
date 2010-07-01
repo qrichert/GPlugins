@@ -1,0 +1,10 @@
+GPlugins
+Makefile
+moc_*.cpp
+qrc_*.cpp
+*.o
+*.swp
+*.swo
+*.cache
+*.db
+*.so
