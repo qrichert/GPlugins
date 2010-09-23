@@ -20,7 +20,7 @@ along with Multiuso.  If not, see <http://www.gnu.org/licenses/>.
 #ifndef HEADER_GPLUGINS
 #define HEADER_GPLUGINS
 
-#include "../Multiuso/Multiuso.h"
+#include "Multiuso.h"
 #include "BaseAction.h"
 #include "BaseDockWidget.h"
 #include "BaseOnglet.h"

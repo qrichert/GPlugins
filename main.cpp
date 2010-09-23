@@ -22,7 +22,7 @@ along with Multiuso.  If not, see <http://www.gnu.org/licenses/>.
 #include <QLocale>
 #include <QLibraryInfo>
 #include <QIcon>
-#include "../Multiuso/Multiuso.h"
+#include "Multiuso.h"
 #include "GPlugins.h"
 
 int main(int argc, char *argv[])
